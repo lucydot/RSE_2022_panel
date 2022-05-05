@@ -1,8 +1,8 @@
-# Title: The earth is warming. What can we do as RSEs?
+# Title: The earth is heating. What can we do as RSEs?
 
 ## Abstract (250 words max)
 
-The Earth is getting warmer, and human activity is largely to blame. But what can we, as RSEs, do?
+The Earth is getting hotter, and human activity is largely to blame. But what can we, as RSEs, do?
 
 In this panel we will hear from people who are aligning their RSE work with our fight against climate change. This work can take a variety of forms: from monitoring and reducing the environment impact of high performance computing and data centre processing, through collaborating with research projects that mitigate the effects of climate change, to supporting advocates for climate action.
 
